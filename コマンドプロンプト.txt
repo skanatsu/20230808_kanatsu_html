@@ -1,0 +1,32 @@
+Microsoft Windows [Version 10.0.19045.3208]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\SK>cd coachtech
+
+C:\Users\SK\coachtech>cd html-css
+
+C:\Users\SK\coachtech\html-css>cd html-test
+
+C:\Users\SK\coachtech\html-css\html-test>echo "# 20230808_kanatsu_html" >> README.md
+
+C:\Users\SK\coachtech\html-css\html-test>git init
+'git' は、内部コマンドまたは外部コマンド、
+操作可能なプログラムまたはバッチ ファイルとして認識されていません。
+
+C:\Users\SK\coachtech\html-css\html-test>git add README.md
+'git' は、内部コマンドまたは外部コマンド、
+操作可能なプログラムまたはバッチ ファイルとして認識されていません。
+
+C:\Users\SK\coachtech\html-css\html-test>git commit -m "first commit"
+'git' は、内部コマンドまたは外部コマンド、
+操作可能なプログラムまたはバッチ ファイルとして認識されていません。
+
+C:\Users\SK\coachtech\html-css\html-test>git branch -M main
+'git' は、内部コマンドまたは外部コマンド、
+操作可能なプログラムまたはバッチ ファイルとして認識されていません。
+
+C:\Users\SK\coachtech\html-css\html-test>git remote add origin git@github.com:skanatsu/20230808_kanatsu_html.git
+'git' は、内部コマンドまたは外部コマンド、
+操作可能なプログラムまたはバッチ ファイルとして認識されていません。
+
+C:\Users\SK\coachtech\html-css\html-test>git push -u origin main
